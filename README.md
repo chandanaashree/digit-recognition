@@ -1,10 +1,10 @@
- 1)Handwritten Digit Recognition using CNN
+ 1) Handwritten Digit Recognition using CNN
 
 A deep learning project that recognizes handwritten digits (0–9) using a Convolutional Neural Network (CNN) trained on the MNIST dataset.  
 The model is deployed as an interactive web application using Streamlit.
 
 ---
-2)Features
+2) Features
 - Upload handwritten digit images
 - Real-time digit prediction
 - Confidence score for predictions
@@ -12,7 +12,7 @@ The model is deployed as an interactive web application using Streamlit.
 - Clean and user-friendly UI
 
 ---
- 3)Tech Stack
+ 3) Tech Stack
 - Python
 - TensorFlow / Keras
 - NumPy
@@ -21,7 +21,7 @@ The model is deployed as an interactive web application using Streamlit.
 - MNIST Dataset
 
 ---
- 4)Model Architecture
+ 4) Model Architecture
 - Convolutional Layers
 - MaxPooling Layers
 - Fully Connected Dense Layers
@@ -30,7 +30,7 @@ The model is deployed as an interactive web application using Streamlit.
 Trained on the MNIST dataset with validation accuracy above 98%.
 
 ---
- 5)Project Structure
+ 5) Project Structure
  
  digit-recognition/
 │
